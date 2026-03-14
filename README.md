@@ -75,7 +75,7 @@ cd file-organizer-auto
 ### 2️⃣ Instale as dependências
 
 ```bash
-pip install pystray pillow
+pip install -r requirements.txt
 ```
 
 > O **tkinter** já vem instalado com o Python na maioria das distribuições.
